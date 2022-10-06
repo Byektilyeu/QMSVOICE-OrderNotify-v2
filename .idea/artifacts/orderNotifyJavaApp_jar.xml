@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="orderNotifyJavaApp:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="orderNotifyJavaApp.jar">
+      <element id="module-output" name="orderNotifyJavaApp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OrderNotifyJava/jars/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OrderNotifyJava/sqlite-jdbc-3.36.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OrderNotifyJava/java-json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
